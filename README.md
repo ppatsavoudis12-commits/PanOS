@@ -33,7 +33,7 @@ No Python or installation required — just double-click and run!
 
 ## Version
 
-PanOS 1.0 ( 2.0 version is currently being made stay tuned
+PanOS 1.0 ( 2.0 version is currently being made stay tuned) (lots of new feutures and customazasions incoming...)
 
 ## Author
 
